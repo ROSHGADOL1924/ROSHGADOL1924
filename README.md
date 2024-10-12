@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ROSHGADOL1924
-- 👀 I’m interested in ...applying cybersecurity wisely to help privacy private!
+- 👀 I’m interested in ...applying cybersecurity wisely to help keep privacy private!
 - 🌱 I’m currently learning ...Social engineering and Ethical hacking.
 - 💞️ I’m looking to collaborate on ...making dense cybersecurity concepts relatable to non techincal people.
 - 📫 How to reach me ...message me here.
