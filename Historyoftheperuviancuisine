@@ -1,0 +1,15 @@
+# Define the URL of the webpage to scrape
+$url = "https://en.wikipedia.org/wiki/Cuisine_of_Peru"
+
+# Use Invoke-WebRequest to get the content of the webpage
+$response = Invoke-WebRequest -Uri $url
+
+# Extract the main content from the webpage
+$content = $response.ParsedHtml.body.innerHTML
+
+# Optionally, save the content to a file
+$outputFile = "PeruCulinaryHistory.html"
+$content | Out-File -FilePath $outputFile
+
+# Display a message indicating that the content has been saved
+Write-Host "Culinary history of Peru has been saved to $outputFile."
