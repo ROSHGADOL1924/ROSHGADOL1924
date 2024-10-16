@@ -1,0 +1,24 @@
+# Cybersecurity Bootcamp Career Checklist Script
+
+# Define the steps for landing a dream position
+$steps = @(
+    "1. Build a Strong Resume: Highlight your skills, projects, and relevant coursework."
+    "2. Create a LinkedIn Profile: Showcase your experience and connect with industry professionals."
+    "3. Engage in Networking: Attend meetups, webinars, and industry conferences."
+    "4. Gain Hands-On Experience: Contribute to open-source projects or intern in relevant roles."
+    "5. Obtain Certifications: Pursue relevant certifications like CompTIA Security+, CEH, or others."
+    "6. Prepare for Interviews: Practice common cybersecurity interview questions."
+    "7. Tailor Applications: Customize your resume and cover letter for each position."
+    "8. Stay Current: Follow industry news and trends to stay informed."
+)
+
+# Display the checklist
+Write-Host "Cybersecurity Bootcamp Career Checklist" -ForegroundColor Cyan
+Write-Host "----------------------------------------" -ForegroundColor Cyan
+
+foreach ($step in $steps) {
+    Write-Host $step -ForegroundColor Green
+}
+
+Write-Host "----------------------------------------" -ForegroundColor Cyan
+Write-Host "Stay focused and persistent. Your dream job is within reach!" -ForegroundColor Yellow
