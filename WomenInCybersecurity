@@ -1,0 +1,35 @@
+WomenInCybersecurity/
+│
+├── README.md
+├── empowerment_articles/
+│   ├── article1.md
+│   └── article2.md
+├── images/
+│   ├── ashley_graham.jpg
+│   └── empowerment_graphic.png
+└── resources/
+    ├── books.md
+    └── organizations.md
+# Women in Cybersecurity
+
+This repository is dedicated to empowering women of all sizes and breaking barriers in cybersecurity. Inspired by Ashley Graham's groundbreaking participation in the Victoria's Secret runway, we aim to challenge preconceived notions about women in tech and promote inclusivity.
+
+## Goals
+- Highlight stories of women in cybersecurity.
+- Discuss body positivity and its relation to confidence in the tech industry.
+- Provide resources and support for women looking to enter or advance in cybersecurity.
+
+# Article 1: Breaking Barriers
+
+Ashley Graham’s historic walk in the Victoria's Secret runway represents more than fashion; it symbolizes breaking barriers for women of all sizes. Similarly, women in cybersecurity face stereotypes that can be dismantled through representation and success stories.
+
+# Contributing to Women in Cybersecurity
+
+We welcome contributions! If you have an article, resource, or story to share, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Add your content.
+4. Submit a pull request.
+
+Together, we can empower women in cybersecurity!
