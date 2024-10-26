@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# Welcome message
+echo "Welcome to Peru, a land of breathtaking beauty and rich history!"
+
+# Lima
+echo -e "\nLima: The only capital by the ocean."
+echo "Enjoy stunning coastal views and delicious seafood."
+
+# Millenary History
+echo -e "\nMillenary History:"
+echo "Explore ancient civilizations, from the Nazca lines to Inca ruins."
+
+# Machu Picchu
+echo -e "\nMachu Picchu: A must-visit icon."
+echo "Nestled high in the Andes, experience the ingenuity of the Inca civilization."
+
+# Lake Titicaca
+echo -e "\nLake Titicaca: The highest navigable lake in the world."
+echo "Meet the Uros people living on floating islands made of reeds."
+
+# Nazca Lines
+echo -e "\nNazca Lines: Mysterious geoglyphs."
+echo "Best appreciated from the air, their purpose remains a mystery."
+
+# Amazon Rainforest
+echo -e "\nAmazon Rainforest: A biodiversity hotspot."
+echo "Discover the Amazon River, weaving through lush jungles."
+
+# Arequipa
+echo -e "\nArequipa: The White City."
+echo "Famous for its stunning sillar architecture and El Misti volcano backdrop."
+
+# Peruvian Cuisine
+echo -e "\nPeruvian Cuisine: A food lover’s paradise."
+echo "Savor dishes like ceviche and lomo saltado, infused with local flavors."
+
+# Closing
+echo -e "\nPack your bags and come experience the magic of Peru!"
+echo "We can’t wait to welcome you!"
