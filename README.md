@@ -3,4 +3,4 @@
 - 🌱 I got my Comptia security plus done :)
 - 💞️ I’m looking to collaborate on making dense cybersecurity concepts relatable to non techincal people.
 - 📫 How to reach me: message me here.
-- ⚡ Fun fact: I love languages. I speak 3 and want to learn more.
+- ⚡ Fun fact: I love languages. I speak 2 and want to learn more.
