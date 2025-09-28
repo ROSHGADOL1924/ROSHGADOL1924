@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ROSHGADOL1924
 - 👀 I’m interested in applying cybersecurity wisely to help keep privacy private.
-- 🌱 I read all 16 chapters of the CompTIA Security Plus and passed ot on the first try!
+- 🌱 I read all 16 chapters of the CompTIA Security Plus and passed it on the first try!
 - 💞️ I’m looking to collaborate on making dense cybersecurity concepts relatable to less technical Stakeholders.
 - 📫 How to reach me: www.linkedin.com/in/diana-sofía-rodríguez
 - ⚡ Fun fact: I love languages. I speak 2 and want to learn more.
